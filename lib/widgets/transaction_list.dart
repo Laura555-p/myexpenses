@@ -43,7 +43,7 @@ class TransactionList extends StatelessWidget {
                                 ).createShader(
                                     Rect.fromLTRB(0, 0, img.width, img.height));
                               },
-                              child: Image.asset('assets/images/pic5.png'))),
+                              child: Image.asset('assets/images/question_mark.png'))),
                     ],
                   );
                 },
