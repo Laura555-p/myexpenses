@@ -23,7 +23,6 @@ flutter:
 
   assets:
     - assets/images/pic3.png
-    - assets/images/pic5.png
     - assets/images/question_mark.png
 
   fonts:

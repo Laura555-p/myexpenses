@@ -77,7 +77,7 @@ class _NewTransactionState extends State<NewTransaction> {
             children: <Widget>[
               TextField(
                 style: Theme.of(context).textTheme.title,
-                keyboardType: TextInputType.number,
+                keyboardType: TextInputType.text,
                 decoration: InputDecoration(
                   labelText: 'Title',
                   labelStyle: Theme.of(context).inputDecorationTheme.labelStyle,
