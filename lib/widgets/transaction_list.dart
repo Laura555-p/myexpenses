@@ -30,9 +30,9 @@ class TransactionList extends StatelessWidget {
                         ),
                       ),
                       Container(
-                          margin: EdgeInsets.all(20),
+                          margin: EdgeInsets.all(25),
                           width: 150,
-                          height: MediaQuery.of(context).size.height * 0.26,
+                          height: MediaQuery.of(context).size.height * 0.23,
                           child: ShaderMask(
                               shaderCallback: (img) {
                                 return LinearGradient(
@@ -43,7 +43,8 @@ class TransactionList extends StatelessWidget {
                                 ).createShader(
                                     Rect.fromLTRB(0, 0, img.width, img.height));
                               },
-                              child: Image.asset('assets/images/question_mark.png'))),
+                              child: Image.asset('assets/images/question_mark.png',
+                              ))),
                     ],
                   );
                 },

@@ -56,7 +56,7 @@ class _UserTransactionState extends State<UserTransaction> {
             Container(
               height: MediaQuery.of(context).size.height * 0.3,
               margin: EdgeInsets.only(left: 10, top: 0, right: 0, bottom: 0),
-              width: 160,
+              width: 165,
               //height: 160,
               child: Image.asset('assets/images/pic3.png'),
             ),
