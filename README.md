@@ -10,6 +10,10 @@ The application is created of widget tree, transaction item, the list of transac
 A widget tree:
 
 
+
+![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenseswidgettree.png)
+
+
 Transaction item is created under a blueprint of transactionclass, it describes what information about the transaction is required. In this case (id, title, amount, date).
 
 List 'transactions' holding list of transactions and transaction class used as a type of list.
