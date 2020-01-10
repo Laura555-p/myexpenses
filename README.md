@@ -7,7 +7,7 @@ After all the date needs to be provided when money was spent. All grouped inform
 
 The application is created of **a widget tree**, the **transaction item**, the **list of transactions**, and **methods**:
 
-A widget tree:
+**A widget tree:**
 
 
 
