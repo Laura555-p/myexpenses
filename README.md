@@ -7,7 +7,7 @@ After all the date needs to be provided when money was spent. All grouped inform
 
 The application is created of **a widget tree**, the **transaction item**, the **list of transactions**, and **methods**:
 
-**A widget tree:**
+- **A widget tree:**
 
 
 
@@ -16,17 +16,17 @@ The application is created of **a widget tree**, the **transaction item**, the *
 
 - **Transaction item** is created under a blueprint of transactionclass, it describes what information about the transaction is required. In this case (id, title, amount, date).
 
-List **'transactions'** holding list of transactions and transaction class used as a type of list.
+- List **'transactions'** holding list of transactions and transaction class used as a type of list.
 
-Method **'_addNewTransaction'** adding transaction.
+- Method **'_addNewTransaction'** adding transaction.
 
-Method **'_deleteTransaction'** deleting transaction.
+- Method **'_deleteTransaction'** deleting transaction.
 
-Method (get) **'recentTransactions'** dynamically calculated property which returns transactions younger than seven days.
+- Method (get) **'recentTransactions'** dynamically calculated property which returns transactions younger than seven days.
 
-Method (get) **'groupedTransactionValues'** dynamically calculated property which returns transaction values grouped by weekdays (how much money was spent in a  particular weekday).
+- Method (get) **'groupedTransactionValues'** dynamically calculated property which returns transaction values grouped by weekdays (how much money was spent in a  particular weekday).
 
-Method (get) **'totalSpending'** dynamically calculated property which returns total spending per week.  
+- Method (get) **'totalSpending'** dynamically calculated property which returns total spending per week.  
 
 
 
