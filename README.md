@@ -38,11 +38,9 @@ Method (get) 'totalSpending' dynamically calculated property which returns total
 
 
 ![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenses1.PNG)
-
 ![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenses2.PNG)
-
 ![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenses3.PNG)
-
+![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenses4.PNG)
 ![](https://github.com/Laura555-p/myexpenses/blob/master/assets/images/my_expenses5.PNG)
 
 
