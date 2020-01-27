@@ -3,7 +3,7 @@
 This mobile application seeking expenses. 
 First of all the title needs to be provided, where money was spent. 
 Secondly, the amount of money needs to be provided, how much money was spent.
-After all the date needs to be provided when money was spent. All grouped information is added as a transaction item in the transaction list. Below the chart shows the percentage of how much money was sent per each day. The total amount of money spent per day is divided by the total about of money spent per week.
+After all the date needs to be provided when money was spent. All grouped information is added as a transaction item in the transaction list. Below the chart shows the percentage of how much money was sent per each day. The total amount of money spent per day is divided by the total amount of money spent per week.
 
 The application is created of **a widget tree**, the **transaction item**, the **list of transactions**, and **methods**:
 
