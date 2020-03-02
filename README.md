@@ -1,4 +1,4 @@
-**My Expenses mobile application**
+**My Expenses Mobile Application**
 
 This mobile application seeking expenses. 
 First of all the title needs to be provided, where money was spent. 
